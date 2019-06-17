@@ -1,6 +1,15 @@
 "Hello Git World"
+<<<<<<< HEAD
 "Hello World"</p>
+=======
+"Hello World"
+>>>>>>> test-branch-2
 "Chocolate is Life"
 "Coffee is The Sweet Nectar"
 "my-test-branch"
 "my second test branch"
+<<<<<<< HEAD
+=======
+        I branched from Bash and it wouldn't let me push to github.
+        Then, i
+>>>>>>> test-branch-2

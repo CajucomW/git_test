@@ -1,3 +1,15 @@
+<<<<<<< HEAD
 I messed up here. I meant to make an identical branch that is started locally.
 I should've been in the master branch first, but, instead, this branch is in the 
 test-branch-2. #facepalm.
+=======
+"Hello Git World"
+"Hello World"
+"Chocolate is Life"
+"Coffee is The Sweet Nectar"
+"my-test-branch"
+"my second test branch"
+        I branched from Bash and it wouldn't let me push to github.
+        Then, I created test-branch-2 From github, which exists now.
+
+>>>>>>> test-branch-2
